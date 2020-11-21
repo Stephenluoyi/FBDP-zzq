@@ -1,0 +1,48 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HBase",
+            "request": "launch",
+            "mainClass": "students.HBase",
+            "projectName": "hbase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "students.App",
+            "projectName": "hbase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "test1.App",
+            "projectName": "test1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<javatest>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "javatest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-quickstart",
+            "request": "launch",
+            "mainClass": "protest.quickstart"
+        }
+    ]
+}

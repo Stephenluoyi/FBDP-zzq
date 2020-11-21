@@ -1,0 +1,7 @@
+test1\WordCount$TokenizerMapper.class
+test1\WordCount.class
+test1\WordCount$IntSumReducer.class
+test1\App.class
+test1\WordCount$IntWritableDecreasingComparator.class
+test1\WordCount$selfReducer.class
+test1\WordCount$TokenizerMapper$CountersEnum.class
